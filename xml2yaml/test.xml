@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <person>
+        <name>John Doe</name>
+        <age>30</age>
+        <address>
+            <street>123 Main St</street>
+            <city>Anytown</city>
+            <country>USA</country>
+        </address>
+    </person>
+</root> 
